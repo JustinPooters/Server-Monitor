@@ -1,0 +1,15 @@
+{
+    "hostname": "ubuntu",
+    "platform": "linux",
+    "arch": "x64",
+    "release": "5.11.0-43-generic",
+    "uptime": 16359.2,
+    "totalmem": 16647917568,
+    "freemem": 5403865088,
+    "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+    "CPU Cores": 4,
+    "CPUsSpeed": 3600,
+    "HomeDir": "/home/peter",
+    "User": "peter",
+    "Version": "#47~20.04.2-Ubuntu SMP Mon Dec 13 11:06:56 UTC 2021"
+}

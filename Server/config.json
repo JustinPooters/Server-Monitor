@@ -1,0 +1,8 @@
+{
+    "port": "1234",
+    "name": "ServerMonitor By Justin P",
+    "version": "1.0.0",
+    "description": "ServerMonitor is a simple server monitoring tool that can be used to monitor the status of a server and send alerts to a user.",
+    "author": "Justin P",
+    "license": "MIT"
+}

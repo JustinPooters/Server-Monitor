@@ -1,0 +1,17 @@
+{
+    "hostname": "DESKTOP-ES9EI25",
+    "platform": "win32",
+    "arch": "x64",
+    "release": "10.0.19044",
+    "uptime": 1197642,
+    "totalmem_GB": "16 GB",
+    "totalmem_MB": "16181 MB",
+    "freemem_GB": "4 GB",
+    "freemem_MB": "4546 MB",
+    "CPU": "11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz",
+    "CPU Cores": 12,
+    "CPUsSpeed": "3 GHz",
+    "HomeDir": "C:\\Users\\Justin Pooters",
+    "User": "Justin Pooters",
+    "Version": "Windows 10 Pro"
+}
